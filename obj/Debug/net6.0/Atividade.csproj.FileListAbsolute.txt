@@ -1,0 +1,5 @@
+C:\Users\Andre\Documents\SENAI EAD\BackEnd\Atividade\Atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\Andre\Documents\SENAI EAD\BackEnd\Atividade\Atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\SENAI EAD\BackEnd\Atividade\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\SENAI EAD\BackEnd\Atividade\Atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\Users\Andre\Documents\SENAI EAD\BackEnd\Atividade\Atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
